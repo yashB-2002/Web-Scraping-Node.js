@@ -5,3 +5,4 @@
 - Node.js Request Module to get the data from a url.
 - Node.js library Cheerio for scraping data.
 - Understanding of Javascript Async, Await feature.
+- Repo also consists of how to use json and excel files, how to read and write in excel file using npm package xlsx.
